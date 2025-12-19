@@ -1,8 +1,0 @@
-/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/release/deps/libitoa-980722681de3430b.rmeta: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/udiv128.rs
-
-/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/release/deps/libitoa-980722681de3430b.rlib: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/udiv128.rs
-
-/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/release/deps/itoa-980722681de3430b.d: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/udiv128.rs
-
-/Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/lib.rs:
-/Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/itoa-1.0.15/src/udiv128.rs:

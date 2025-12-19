@@ -1,0 +1,40 @@
+{
+  "address": "DSieW9K3zXmTtmv6y5QBUquRiquE8HysUDxbcqgk2c44",
+  "metadata": {
+    "name": "verify_test",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "test_ix",
+      "discriminator": [
+        171,
+        118,
+        51,
+        73,
+        181,
+        5,
+        163,
+        241
+      ],
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "errors": [
+    {
+      "code": 6000,
+      "name": "CustomError",
+      "msg": "Custom error message"
+    }
+  ],
+  "constants": [
+    {
+      "name": "SEED",
+      "type": "string",
+      "value": "\"anchor\""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/sbpf-solana-solana/release/deps/libsolana_loader_v3_interface-06245d95d6083dbc.rmeta: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/sbpf-solana-solana/release/deps/libsolana_loader_v3_interface-06245d95d6083dbc.rlib: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/andrewparker/Documents/projects/solana-dev/verify-test/target/sbpf-solana-solana/release/deps/solana_loader_v3_interface-06245d95d6083dbc.d: /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/lib.rs:
+/Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/instruction.rs:
+/Users/andrewparker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v3-interface-3.0.0/src/state.rs:

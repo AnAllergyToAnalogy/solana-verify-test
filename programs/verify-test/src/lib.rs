@@ -5,11 +5,25 @@ pub mod state;
 
 use anchor_lang::prelude::*;
 
+#[allow(unused_imports)]
+use solana_security_txt::security_txt;
+
+#[cfg(not(feature = "no-entrypoint"))]
+security_txt! {
+    name: "Program Verify Test",
+    project_url: "https://github.com/AnAllergyToAnalogy/solana-verify-test",
+    contacts: "email:anallergytoanalogy@gmail.com",
+    policy: "https://github.com/AnAllergyToAnalogy/solana-verify-test/blob/main/SECURITY.md",
+    preferred_languages: "en",
+    source_code: "https://github.com/AnAllergyToAnalogy/solana-verify-test"
+}
+
+
 pub use constants::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("DSieW9K3zXmTtmv6y5QBUquRiquE8HysUDxbcqgk2c44");
+declare_id!("E6bPwe1P6M1QWQVvF7aH5pttrdGDRW9Kc45bEjq9e97Q");
 
 #[program]
 pub mod verify_test {

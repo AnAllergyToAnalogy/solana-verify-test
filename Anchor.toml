@@ -12,7 +12,7 @@ verify_test = "E6bPwe1P6M1QWQVvF7aH5pttrdGDRW9Kc45bEjq9e97Q"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id-test-verify.json"
 
 [scripts]

@@ -23,7 +23,7 @@ pub use constants::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("6icKqykfAx3hL3ycrVuucADVKVj9mo5bmCPvAKwkboyY");
+declare_id!("Ccxn6TBHtt6cAvdrgrxTXFtgSpbfTdJfV5L5oWHfaxhF");
 
 #[program]
 pub mod verify_test {
